@@ -1,0 +1,13 @@
+Estimad@ ${PERSON_NAME},
+
+Este es un mensaje enviado desde el script
+escrito en lenguaje Python.
+
+Saludos Cordiales.
+
+
+Att,
+
+
+@rickuio
+Administrador
