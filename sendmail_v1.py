@@ -47,5 +47,5 @@ try:
     status_close_mail = server.quit()
     print ('\nComplete!! :)\n')
 except KeyError:
-    print (':( Error trying send mail!!\n')
+    print (':( Error trying send mail with Python!\n')
     
