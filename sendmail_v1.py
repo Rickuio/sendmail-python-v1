@@ -15,13 +15,13 @@ def read_template(filename):
 
 try:
     cont = 0
-    nombre_destino = 'Usuario'
-    destino = 'ranchaluisa@devoxs.com'
+    nombre_destino = 'Pepito'
+    destino = 'pepito_perez@hotmail.com'
     host = 'smtp-mail.outlook.com'
     port = 587
-    remitente = 'joinic2@hotmail.com'
-    #clave = 'passwordsecreto'
-    clave = 'thebest2'
+
+    remitente = 'tu_correo_personal@hotmail.com'
+    clave = 'tu_password_personal'
 
     asunto = 'Envio de mail desde Python'
     path_template_m = 'message.txt'
@@ -47,4 +47,5 @@ try:
     status_close_mail = server.quit()
     print ('\nComplete!! :)\n')
 except KeyError:
-    print (':( Error trying send mail!!\n')    
+    print (':( Error trying send mail!!\n')
+    
