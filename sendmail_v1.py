@@ -48,4 +48,3 @@ try:
     print ('\nComplete!! :)\n')
 except KeyError:
     print (':( Error trying send mail with Python!\n')
-    
