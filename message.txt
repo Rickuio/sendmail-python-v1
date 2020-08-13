@@ -9,5 +9,4 @@ Saludos Cordiales.
 Att,
 
 
-@rickuio
 Administrador
